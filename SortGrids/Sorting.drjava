@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Sorting.java" package="Assign_5" timestamp="09-Apr-2021 15:32:27">
+        <select from="2576" to="2576"/>
+        <scroll column="774" row="0"/>
+      </file>
+      <file name="widthComparator.java" package="Assign_5" timestamp="09-Apr-2021 15:25:11">
+        <select from="2576" to="2576"/>
+        <scroll column="774" row="0"/>
+      </file>
+      <file name="Block.java" package="Assign_5" timestamp="09-Apr-2021 15:25:11">
+        <select from="2576" to="2576"/>
+        <scroll column="774" row="0"/>
+      </file>
+      <file name="contentComparator.java" package="Assign_5" timestamp="09-Apr-2021 15:25:11">
+        <select from="2576" to="2576"/>
+        <scroll column="774" row="0"/>
+      </file>
+      <file name="heightComparator.java" package="Assign_5" timestamp="09-Apr-2021 15:25:11">
+        <select from="2576" to="2576"/>
+        <scroll column="774" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../Dr Java/BasicIO.jar"/>
+      <file absolute="false" name="../Dr Java/Media.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

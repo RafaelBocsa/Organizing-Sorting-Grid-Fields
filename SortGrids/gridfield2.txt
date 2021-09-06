@@ -1,0 +1,100 @@
+18
+
+1	5
+k
+k
+k
+k
+k
+
+5	4
+DDDDD
+DDDDD
+DDDDD
+DDDDD
+
+2	1
+CC
+
+6	1
+KKKKKK
+
+9	3
+ppppppppp
+ppppppppp
+ppppppppp
+
+4	3
+cccc
+cccc
+cccc
+
+1	3
+o
+o
+o
+
+6	3
+ffffff
+ffffff
+ffffff
+
+1	1
+C
+
+3	5
+YYY
+YYY
+YYY
+YYY
+YYY
+
+3	6
+kkk
+kkk
+kkk
+kkk
+kkk
+kkk
+
+1	4
+q
+q
+q
+q
+
+2	4
+qq
+qq
+qq
+qq
+
+2	4
+ss
+ss
+ss
+ss
+
+10	5
+wwwwwwwwww
+wwwwwwwwww
+wwwwwwwwww
+wwwwwwwwww
+wwwwwwwwww
+
+9	2
+NNNNNNNNN
+NNNNNNNNN
+
+8	2
+XXXXXXXX
+XXXXXXXX
+
+5	7
+qqqqq
+qqqqq
+qqqqq
+qqqqq
+qqqqq
+qqqqq
+qqqqq

@@ -1,0 +1,98 @@
+16
+
+9	6
+aaaaaaaaa
+aaaaaaaaa
+aaaaaaaaa
+aaaaaaaaa
+aaaaaaaaa
+aaaaaaaaa
+
+9	4
+UUUUUUUUU
+UUUUUUUUU
+UUUUUUUUU
+UUUUUUUUU
+
+9	3
+AAAAAAAAA
+AAAAAAAAA
+AAAAAAAAA
+
+1	1
+m
+
+5	4
+WWWWW
+WWWWW
+WWWWW
+WWWWW
+
+3	1
+ttt
+
+3	4
+KKK
+KKK
+KKK
+KKK
+
+10	7
+BBBBBBBBBB
+BBBBBBBBBB
+BBBBBBBBBB
+BBBBBBBBBB
+BBBBBBBBBB
+BBBBBBBBBB
+BBBBBBBBBB
+
+8	1
+xxxxxxxx
+
+10	7
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+
+9	4
+CCCCCCCCC
+CCCCCCCCC
+CCCCCCCCC
+CCCCCCCCC
+
+8	3
+dddddddd
+dddddddd
+dddddddd
+
+1	7
+n
+n
+n
+n
+n
+n
+n
+
+5	2
+qqqqq
+qqqqq
+
+8	5
+PPPPPPPP
+PPPPPPPP
+PPPPPPPP
+PPPPPPPP
+PPPPPPPP
+
+8	6
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
